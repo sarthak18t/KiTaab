@@ -603,3 +603,54 @@
   color: var(--absolute-white);
   font-family: var(--font-manrope);
 }
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.details {
+    background-color: #1a1a1a;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20%;
+}
+
+.heading {
+    color: #f8f1f1;
+}
+
+.paragraph {
+    color: #f4efef;
+}
+
+.input-form-container {
+    margin-top: 20px;
+}
+
+.input-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-field,
+.select-field {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    color: white;
+}
+
+.button-user {
+    background-color: #e60000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+

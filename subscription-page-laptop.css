@@ -467,7 +467,7 @@
   position: relative;
   background-color: var(--black-08);
   width: 100%;
-  height: 2025px;
+  height: 1800px;
   overflow: hidden;
   font-size: var(--body-small-size);
 }

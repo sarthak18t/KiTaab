@@ -9,6 +9,28 @@
   width: 1447px;
   height: 814px;
 }
+#searchInput {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  /* margin-bottom: 10px; */
+  width: 20%;
+  background-color: #ccc;
+  color: white;
+}
+
+.vector-icon1 {
+  cursor: pointer;
+}
+
+/* Add these styles for a clean appearance */
+.buttons-container1 {
+  display: flex;
+  align-items: center;
+}
+
+
+
 .image-icon {
   top: calc(50% - 429.5px);
   border-radius: var(--br-xs);

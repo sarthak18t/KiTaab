@@ -18,8 +18,10 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Archivo:wght@500&display=swap"
     />
+    
   </head>
   <body>
+    
     <div class="home-page-laptop">
       <div class="container">
         <div class="sub-container">
@@ -65,7 +67,7 @@
         </div>
         <nav class="buttons-container1">
           <button class="button1">
-            <a class="text1">Home</a>
+            <a class="text1" href="#">Home</a>
           </button>
           <a class="text-button" href="./movies-shows-page-laptop.html"
             >Explore</a
@@ -98,8 +100,10 @@
             <div class="button2">
               <img class="icon" alt="" src="./public/icon3.svg" />
             </div>
+            <input type="text" id="searchInput" placeholder="Search">
           </div>
         </div>
+        
         <a class="sub-container3" href="./movies-shows-page-laptop.html">
           <div class="card">
             <div class="container2">
@@ -258,7 +262,7 @@
         <div class="container13">
           <div class="line"></div>
           <div class="container14">
-            <div class="text2">@2023 streamvib, All Rights Reserved</div>
+            <div class="text2">@2023 KiTaab, All Rights Reserved</div>
             <div class="buttons-container4">
               <div class="text2">Terms of Use</div>
               <div class="line1"></div>
@@ -270,5 +274,27 @@
         </div>
       </div>
     </div>
+    <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const searchInput = document.getElementById("searchInput");
+    const cards = document.querySelectorAll(".card");
+
+    searchInput.addEventListener("input", function () {
+      const searchTerm = searchInput.value.toLowerCase();
+
+      cards.forEach((card) => {
+        const heading = card.querySelector(".heading2").textContent.toLowerCase();
+        const isVisible = heading.includes(searchTerm);
+
+        if (isVisible) {
+          card.style.display = "block";
+        } else {
+          card.style.display = "none";
+        }
+      });
+    });
+  });
+</script>
+
   </body>
 </html>
