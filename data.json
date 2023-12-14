@@ -1,0 +1,152 @@
+[
+  {
+    "title": "The Art of Programming",
+    "pages": 300,
+    "views": 1500,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Data Science Basics",
+    "pages": 250,
+    "views": 1200,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "History Unveiled",
+    "pages": 400,
+    "views": 1800,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Mystery at Midnight",
+    "pages": 200,
+    "views": 1000,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Space Odyssey",
+    "pages": 350,
+    "views": 2000,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Cooking Delights",
+    "pages": 180,
+    "views": 900,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Nature's Wonders",
+    "pages": 280,
+    "views": 1300,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Thrills and Chills",
+    "pages": 320,
+    "views": 1600,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Financial Wisdom",
+    "pages": 270,
+    "views": 1400,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "The Quantum Leap",
+    "pages": 220,
+    "views": 1100,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Epic Fantasy Saga",
+    "pages": 500,
+    "views": 2500,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Artificial Intelligence Revolution",
+    "pages": 380,
+    "views": 1900,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Health and Wellness Guide",
+    "pages": 240,
+    "views": 1200,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Travel Chronicles",
+    "pages": 300,
+    "views": 1500,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "The Mindful Journey",
+    "pages": 260,
+    "views": 1300,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Beyond the Stars",
+    "pages": 400,
+    "views": 2000,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Historical Legends",
+    "pages": 180,
+    "views": 900,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Science Fiction Chronicles",
+    "pages": 320,
+    "views": 1600,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "DIY Home Projects",
+    "pages": 250,
+    "views": 1200,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "The Detective's Dilemma",
+    "pages": 300,
+    "views": 1500,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Culinary Adventures",
+    "pages": 280,
+    "views": 1400,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "The Art of Gardening",
+    "pages": 200,
+    "views": 1000,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Leadership Principles",
+    "pages": 350,
+    "views": 1800,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Space Exploration",
+    "pages": 240,
+    "views": 1200,
+    "image": "./public/book.jpg"
+  },
+  {
+    "title": "Inspired Living",
+    "pages": 280,
+    "views": 1400,
+    "image": "./public/book.jpg"
+  }
+]
